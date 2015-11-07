@@ -1,0 +1,8 @@
+%% ex: ts=4 sw=4 noexpandtab syntax=erlang
+{application, fne, [
+  {description, "Functional programming in Erlang."},
+  {vsn, git},
+  {registered, []},
+  {applications, [kernel]}
+]}.
+
